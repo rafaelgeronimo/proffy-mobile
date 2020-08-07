@@ -1,9 +1,9 @@
 # Proffy Mobile
 
-Desenvolvido durante a Next Level Week 2 da @Rocketseat.
+Desenvolvido durante a Next Level Week 2 da [Rocketseat](https://github.com/Rocketseat).
 
-Versão 1.0
-Integração apenas com banco em localhost.
+Versão 1.0<br>
+Integração apenas com banco em localhost.<br>
 Backend ainda não disponível online.
 
 Telas:
